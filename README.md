@@ -1,0 +1,2 @@
+# relogiojs
+Função Date();
